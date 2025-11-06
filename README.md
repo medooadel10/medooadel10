@@ -38,11 +38,8 @@
 ### ✅ **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medooadel10&show_icons=true&theme=radical)
 
-### ✅ **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medooadel10&layout=compact&theme=tokyonight)
-
 ### ✅ **Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=medooadel10&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=medooadel10&theme=radical&hide_border=false)
 
 ### ✅ **GitHub Activity Graph**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medooadel10&theme=react-dark)

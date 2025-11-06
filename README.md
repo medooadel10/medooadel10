@@ -36,7 +36,7 @@
 # 📈 GitHub Statistics  
 
 ### ✅ **GitHub Stats**  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medooadel10&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medooadel10&show_icons=true&theme=onedark)
 
 ### ✅ **Activity Graph**  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medooadel10&theme=react-dark)

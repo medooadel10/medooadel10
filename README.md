@@ -36,21 +36,21 @@
 # 📈 GitHub Statistics
 
 ### ✅ **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medooadel10&show_icons=true&theme=radical)
 
 ### ✅ **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medooadel10&layout=compact&theme=tokyonight)
 
 ### ✅ **Contribution Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=medooadel10&theme=radical&hide_border=false)
 
 ### ✅ **GitHub Activity Graph**
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medooadel10&theme=react-dark)
 
 ### ✅ **GitHub Profile Trophy**
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&margin-w=10)
+![Trophy](https://github-profile-trophy.vercel.app/?username=medooadel10&theme=dracula&margin-w=10)
 
 ### ✅ **Visitors Counter**
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=medooadel10&color=blue)
 
 ```md

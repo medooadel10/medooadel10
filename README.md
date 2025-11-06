@@ -36,10 +36,7 @@
 # 📈 GitHub Statistics  
 
 ### ✅ **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medooadel10&show_icons=true&theme=radical)
-
-### ✅ **Contribution Streak** (✅ Fixed Version)  
-![GitHub Streak](https://streak-stats.demolab.com?user=medooadel10&theme=radical&date_format=j%20M%5B%20Y%5D)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medooadel10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✅ **Activity Graph**  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medooadel10&theme=react-dark)

@@ -45,7 +45,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medooadel10&theme=react-dark)
 
 ### ✅ **GitHub Profile Trophy**
-![Trophy](https://github-profile-trophy.vercel.app/?username=medooadel10&theme=dracula&margin-w=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=medooadel10&theme=radical&hide_border=false&cache_seconds=86400)
 
 ### ✅ **Visitors Counter**
 ![Visitor Count](https://komarev.com/ghpvc/?username=medooadel10&color=blue)

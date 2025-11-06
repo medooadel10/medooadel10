@@ -53,16 +53,4 @@
 ### ✅ **Visitors Counter**
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
----
-
-# 👥 Contributors & Collaborators
-
-Here are some amazing developers I've collaborated with:
-
 ```md
-## 👥 Contributors  
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-  <img src="https://contrib.rocks/image?repo=YOUR_USERNAME/YOUR_REPOSITORY" />
-</a>
-
-✨ *Automatically updates as new contributors join.*

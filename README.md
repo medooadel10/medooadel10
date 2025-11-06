@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Adel
 
-<!--
-**medooadel10/medooadel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cross-Platform Mobile Developer | Flutter | CI/CD**  
+🎯 Passionate about building scalable, maintainable products with clean architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 📱 Flutter Mobile Developer (Clean Architecture – Bloc/Riverpod)
+- ⚙️ CI/CD Automation (GitHub Actions · Fastlane · Play Store & App Store Deploy)
+- 🧩 API Integration · State Management · Code Review · Scalable App Design
+- 📊 Skilled in System Design, Problem Solving, and Product Thinking
+- 📚 Love to learn, build, and ship useful products
+
+---
+
+# 🚀 Tech Stack & Tools
+### **Languages & Frameworks**
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+
+### **State Management**
+![Bloc](https://img.shields.io/badge/Bloc-5C2D91?logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0F9D58?logo=flutter&logoColor=white)
+
+### **DevOps / CI/CD**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=white)
+
+### **Databases**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+---
+
+# 📈 GitHub Statistics
+
+### ✅ **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### ✅ **Most Used Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+### ✅ **Contribution Streak**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=false)
+
+### ✅ **GitHub Activity Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+
+### ✅ **GitHub Profile Trophy**
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&margin-w=10)
+
+### ✅ **Visitors Counter**
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+---
+
+# 👥 Contributors & Collaborators
+
+Here are some amazing developers I've collaborated with:
+
+```md
+## 👥 Contributors  
+<a href="https://github.com/YOUR_USERNAME?tab=followers">
+  <img src="https://contrib.rocks/image?repo=YOUR_USERNAME/YOUR_REPOSITORY" />
+</a>
+
+✨ *Automatically updates as new contributors join.*

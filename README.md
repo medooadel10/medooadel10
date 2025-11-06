@@ -36,7 +36,7 @@
 # 📈 GitHub Statistics  
 
 ### ✅ **GitHub Stats**  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medooadel10&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medooadel10&show_icons=true&theme=radical&commits_year=2025&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### ✅ **Activity Graph**  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medooadel10&theme=react-dark)

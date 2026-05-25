@@ -96,18 +96,8 @@ Self-discovery and wellness application providing daily reflective questions and
 - CI/CD Automation & App Deployment  
 - Firebase & REST API Integration  
 - Real-time Features & Push Notifications  
-- Performance Optimization & Maintainability  
-
----
-
-# 📈 GitHub Statistics  
-
-### ✅ **Activity Graph**  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medooadel10&theme=react-dark)
-
-### ✅ **Visitors Counter**  
-![Visitor Count](https://komarev.com/ghpvc/?username=medooadel10&color=blue)
-
+- Performance Optimization & Maintainability
+  
 ---
 
 # 📄 Resume

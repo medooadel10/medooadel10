@@ -15,17 +15,44 @@ I am a passionate Flutter Developer with a strong background in mobile applicati
 ### **Languages & Frameworks**  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 
 ### **State Management**  
 ![Bloc](https://img.shields.io/badge/Bloc-5C2D91?logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-0F9D58?logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-4285F4?logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?logo=flutter&logoColor=white)
+
+### **Architecture & Patterns**  
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-222222?logo=dependabot&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0A66C2?logo=framework&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6F00?logo=codefactor&logoColor=white)
+
+### **Backend & APIs**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?logo=dart&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?logo=swagger&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?logo=auth0&logoColor=white)
+
+### **Databases & Local Storage**  
+![Hive](https://img.shields.io/badge/Hive-F9A825?logo=databricks&logoColor=white)
+![Sqflite](https://img.shields.io/badge/Sqflite-003B57?logo=sqlite&logoColor=white)
+![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-607D8B?logo=android&logoColor=white)
 
 ### **DevOps / CI/CD**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### **Databases & Backend Services**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+### **Tools & Services**  
+![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white)
+![Payment Integration](https://img.shields.io/badge/Payment_Integration-635BFF?logo=stripe&logoColor=white)
+![JSON Serializable](https://img.shields.io/badge/JSON_Serializable-E34F26?logo=json&logoColor=white)
+![Freezed](https://img.shields.io/badge/Freezed-2196F3?logo=snowflake&logoColor=white)
 
 ---
 

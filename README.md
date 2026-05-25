@@ -22,7 +22,6 @@ I am a passionate Flutter Developer with a strong background in mobile applicati
 ![Bloc](https://img.shields.io/badge/Bloc-5C2D91?logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-0F9D58?logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-4285F4?logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?logo=flutter&logoColor=white)
 
 ### **Architecture & Patterns**  
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-222222?logo=dependabot&logoColor=white)

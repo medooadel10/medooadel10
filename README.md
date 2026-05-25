@@ -110,6 +110,14 @@ Self-discovery and wellness application providing daily reflective questions and
 
 ---
 
+# 📄 Resume
+
+📌 **View My CV / Resume**  
+[![Resume](https://img.shields.io/badge/View%20CV-Google%20Drive-blue?logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1YMrq3LzRbhidK0unU9HKXCF21neep_C1?usp=drive_link)
+
+---
+
 # 🌟 Thank You for Visiting!
 
 If you like my work, feel free to ⭐ **star** the repositories — it motivates me a lot! 😊
+

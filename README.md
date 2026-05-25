@@ -6,11 +6,7 @@
 ---
 
 # 🧑‍💻 About Me  
-- 📱 Flutter Developer (Clean Architecture – Bloc & Riverpod)  
-- ⚙️ CI/CD Pipelines: GitHub Actions · Fastlane · Automated Deployments  
-- 🔌 API Integration · Modular Architecture · Code Review  
-- 📊 Strong in System Design & Problem Solving  
-- 📚 Always learning — always building  
+I am a passionate Flutter Developer with a strong background in mobile application development, specialized in building scalable, user-friendly, and high-performance cross-platform apps. A graduate of the Information Technology Institute (ITI), I now contribute back as an ITI Instructor, mentoring and training the next generation of developers. My expertise spans Flutter, Dart, Firebase, REST APIs, CI/CD and modern mobile app architecture, with hands-on experience delivering real-world projects from concept to deployment.  
 
 ---
 

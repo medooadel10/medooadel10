@@ -10,8 +10,8 @@ I am also an **ITI graduate** and **Flutter Instructor**, combining real-world p
 
 ## 📄 Resume
 
-You can view my full resume here:
-👉 https://drive.google.com/file/d/1xyVSUp9gpdgHm5pDr93UOK-hUHErWpDc/view?usp=drive_link
+📥 **Download My Resume**
+Access my full professional resume with detailed experience, projects, and technical expertise.
 
 ---
 
@@ -95,10 +95,10 @@ Self-discovery app with daily questions, personal insights, notifications, and p
 
 ## 📫 Contact Me
 
-* **Email:** [m.adeldev10@gmail.com](mailto:m.adeldev10@gmail.com)
-* **Location:** Cairo, Egypt
-* **GitHub:** mohammedadel10
-* **LinkedIn:** medooadel10
+* 📧 **Email:** [m.adeldev10@gmail.com](mailto:m.adeldev10@gmail.com)
+* 📍 **Location:** Cairo, Egypt
+* 💻 **GitHub:** mohammedadel10
+* 🔗 **LinkedIn:** medooadel10
 
 ---
 

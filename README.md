@@ -10,7 +10,7 @@ I am also an **ITI graduate** and **Flutter Instructor**, combining real-world p
 
 ## 📄 Resume
 
-📥 [**Download My Resume**]([https://your-resume-link-here.com](https://drive.google.com/file/d/1xyVSUp9gpdgHm5pDr93UOK-hUHErWpDc/view?usp=drive_link)
+📥 [**Download My Resume**](https://drive.google.com/file/d/1xyVSUp9gpdgHm5pDr93UOK-hUHErWpDc/view?usp=drive_link)
 Access my full professional resume with detailed experience, projects, and technical expertise.
 
 ---

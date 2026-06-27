@@ -1,134 +1,125 @@
-# 👋 Hi, I'm Mohammed Adel  
+# Hi, I'm Mohammed Adel 👋
 
-🚀 **Cross-Platform Mobile Developer | Flutter | CI/CD Automation**  
-🎯 I build scalable, maintainable mobile applications using clean architecture and modern tools.
+**Mobile Software Engineer | Flutter Developer**
 
----
+I specialize in building scalable, high-performance cross-platform mobile applications using **Flutter** and **Dart**. I have hands-on experience building and publishing **10+ Android and iOS applications** to **Google Play** and the **App Store**, with production features across LMS, ERP, delivery, maintenance, study-abroad, and self-development domains.
 
-# 🧑‍💻 About Me  
-I am a passionate Flutter Developer with a strong background in mobile application development, specialized in building scalable, user-friendly, and high-performance cross-platform apps. A graduate of the Information Technology Institute (ITI), I now contribute back as an ITI Instructor, mentoring and training the next generation of developers. My expertise spans Flutter, Dart, Firebase, REST APIs, CI/CD and modern mobile app architecture, with hands-on experience delivering real-world projects from concept to deployment.  
+I am also an **ITI graduate** and **Flutter Instructor**, combining real-world production experience with mentoring and training developers through practical mobile projects.
 
 ---
 
-# 🚀 Tech Stack & Tools  
+## 📊 Professional Snapshot
 
-### **Languages & Frameworks**  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile%20Apps-10%2B-blue?style=for-the-badge" alt="10+ Mobile Apps" />
+  <img src="https://img.shields.io/badge/SaaS%20Apps-3-green?style=for-the-badge" alt="3 SaaS Apps" />
+  <img src="https://img.shields.io/badge/Domains-6%2B-orange?style=for-the-badge" alt="6+ Product Domains" />
+  <img src="https://img.shields.io/badge/Platforms-Android%20%7C%20iOS-purple?style=for-the-badge" alt="Android and iOS" />
+</p>
 
-### **State Management**  
-![Bloc](https://img.shields.io/badge/Bloc-5C2D91?logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0F9D58?logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-4285F4?logo=flutter&logoColor=white)
-
-### **Architecture & Patterns**  
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-222222?logo=dependabot&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-0A66C2?logo=framework&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-FF6F00?logo=codefactor&logoColor=white)
-
-### **Backend & APIs**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio-0175C2?logo=dart&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?logo=swagger&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?logo=auth0&logoColor=white)
-
-### **Databases & Local Storage**  
-![Hive](https://img.shields.io/badge/Hive-F9A825?logo=databricks&logoColor=white)
-![Sqflite](https://img.shields.io/badge/Sqflite-003B57?logo=sqlite&logoColor=white)
-![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-607D8B?logo=android&logoColor=white)
-
-### **DevOps / CI/CD**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?logo=fastlane&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-### **Tools & Services**  
-![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?logo=firebase&logoColor=black)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white)
-![Payment Integration](https://img.shields.io/badge/Payment_Integration-635BFF?logo=stripe&logoColor=white)
-![JSON Serializable](https://img.shields.io/badge/JSON_Serializable-E34F26?logo=json&logoColor=white)
-![Freezed](https://img.shields.io/badge/Freezed-2196F3?logo=snowflake&logoColor=white)
+- **10+ published mobile apps** across Google Play and the App Store
+- **3 SaaS mobile apps** developed for Captain, Merchant, and Customer users
+- Experience across **LMS, ERP, delivery, maintenance, study-abroad, and self-development** products
+- Production features delivered: **QR/location attendance, payments, real-time sync, push notifications, certificates, and approval workflows**
 
 ---
 
-# 🚀 Featured Projects
+## 📈 GitHub Statistics & Contributions
 
-## 📌 Enterprise & SaaS Applications
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedadel10&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohammed Adel GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedadel10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
 
-### **Cognitech Workspace**  
-Enterprise ERP mobile application for employees, managers, and HR teams. Features attendance tracking, leave management, payroll workflows, approvals, push notifications, and secure multi-tenant authentication with bilingual (EN/AR) support.  
-📲 Deployed on Google Play & App Store.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohammedadel10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### **Cognitech LMS**  
-Mobile Learning Management System (LMS) enabling users to enroll in courses, stream lessons, attend live sessions, complete quizzes, and track learning progress across devices.  
-📲 Deployed on Google Play & App Store.
-
----
-
-## 🚚 Logistics & Delivery Platforms
-
-### **Weevo Ecosystem**
-Contributed to a large-scale SaaS delivery platform consisting of three production applications:
-
-- **Weevo App** — Instant delivery platform enabling same-day deliveries across Egypt.  
-- **Weevo Merchant** — Merchant dashboard app for shipment management and order tracking.  
-- **Weevo Captain** — Driver application connecting captains with merchants for secure deliveries.  
-
-✨ Worked on real-time synchronization, authentication, payment integration, notifications, CI/CD, and scalable architecture.  
-📲 Deployed on Google Play & App Store.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedadel10&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
-## 🛠 Service & Maintenance Platforms
+## 🚀 What I Do
 
-### **UniFix**  
-Smart maintenance marketplace connecting users with verified service providers through real-time tracking, transparent pricing, and warranty-backed services.  
-📲 Deployed on Google Play & App Store.
-
-### **LineSteel App**  
-Maintenance management application supporting requests, tracking, payments, and customer support chat.  
-📲 Deployed on Google Play & App Store.
-
-### **LineSteel Technician App**  
-Companion app for technicians to manage tasks, job updates, and customer communication efficiently.  
-📲 Deployed on Google Play & App Store.
+- Build production-ready Flutter applications for Android and iOS
+- Design scalable mobile architecture using Clean Architecture, MVVM, and SOLID principles
+- Integrate REST APIs, Firebase, authentication, push notifications, payments, and local storage
+- Implement real-world features such as QR/location attendance, real-time sync, certificates, approvals, and multi-role workflows
+- Manage CI/CD workflows and app releases to Google Play and the App Store
+- Mentor Flutter students through practical projects, code reviews, and debugging sessions
 
 ---
 
-## 🌍 Education & Lifestyle Applications
+## 🛠️ Tech Stack
 
-### **Boost Abroad**  
-Study-abroad platform helping students discover programs, manage applications, and track progress seamlessly.  
-📲 Deployed on Google Play & App Store.
-
-### **InnerQ**  
-Self-discovery and wellness application providing daily reflective questions and personalized insights.  
-📲 Deployed on Google Play & App Store.
+**Mobile Development:** Flutter, Dart, Android Native  
+**State Management:** BLoC/Cubit, GetX, Provider  
+**Architecture:** Clean Architecture, MVVM, SOLID Principles, Design Patterns  
+**APIs & Backend:** REST APIs, Dio, HTTP, Retrofit, Firebase, OAuth  
+**Local Storage:** Hive, SQLite / sqflite, Shared Preferences  
+**Integrations:** FCM Notifications, Google Maps, Payment Integration  
+**Tools & Workflow:** Git, CI/CD, Flutter Flavors, JSON Serialization, Freezed, GetIt  
+**Publishing:** Google Play, App Store  
 
 ---
 
-# 💡 What I Focus On
+## 📱 Featured Projects
 
-- Clean Architecture & Scalable Codebases  
-- State Management (Bloc / Riverpod)  
-- CI/CD Automation & App Deployment  
-- Firebase & REST API Integration  
-- Real-time Features & Push Notifications  
-- Performance Optimization & Maintainability
-  
+### CEB LMS — Flutter Mobile Application
+Official learning platform for trainees and professionals, featuring courses, mobile learning content, training sessions, QR/location attendance, progress tracking, feedback, certificates, and notifications.
+
+### Cognitech LMS — Flutter Mobile Application
+Learning management app for course enrollment, lesson streaming, live sessions, quizzes, progress tracking, certificates, and instructor engagement.
+
+### Cognitech Workspace — Flutter Mobile Application
+Enterprise ERP app for employees, managers, and HR teams, featuring attendance, leave, payroll, approvals, notifications, secure multi-tenant access, and Arabic/English support.
+
+### Weevo Merchant — Flutter Mobile Application
+Delivery platform for merchants to create prepaid orders, track shipments, manage deliveries, and communicate with captains.
+
+### Weevo Captain — Flutter Mobile Application
+Delivery app connecting captains with merchants for local and inter-governorate shipments, real-time order updates, and delivery tracking.
+
+### LineSteel — Flutter Mobile Application
+Maintenance service app for requests, tracking, payments, support chat, and customer communication.
+
+### Boost Abroad — Flutter Mobile Application
+Study-abroad app for program discovery, application tracking, and student onboarding.
+
+### InnerQ — Flutter Mobile Application
+Self-discovery app with daily questions, personal insights, notifications, and progress tracking.
+
 ---
 
-# 📄 Resume
+## 💼 Experience Highlights
 
-📌 **View My CV / Resume**  
-[View Resume](https://drive.google.com/file/d/1AXeF1wW66ZhlzUqjKjz2YHftKta52lZb/view?usp=drive_link)
+- Built and maintained production Flutter apps across LMS, ERP, delivery, maintenance, study-abroad, and self-development domains
+- Developed **3 SaaS mobile apps** for Captain, Merchant, and Customer users across Android and iOS
+- Published and maintained **10+ mobile applications** on Google Play and the App Store
+- Implemented production features including QR/location attendance, payments, real-time synchronization, push notifications, certificates, and approval workflows
+- Trained and mentored Flutter students on Dart, APIs, Firebase, state management, clean architecture, and production-ready mobile development
+
 ---
 
-# 🌟 Thank You for Visiting!
+## 🎓 Education & Training
 
-If you like my work, feel free to ⭐ **star** the repositories — it motivates me a lot! 😊
+- **Bachelor of Science in Statistics and Computer Science** — Helwan University
+- **Intensive Training Diploma** — Information Technology Institute (ITI), Frontend and Cross-Platform Mobile Development
+- **Training Diploma** — Ministry of Communications and Information Technology (MCIT)
 
+---
+
+## 📫 Contact Me
+
+- **Email:** m.adeldev10@gmail.com
+- **Location:** Cairo, Egypt
+- **GitHub:** mohammedadel10
+- **LinkedIn:** medooadel10
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to discussing Flutter development, mobile architecture, production app delivery, and opportunities to build impactful mobile products.

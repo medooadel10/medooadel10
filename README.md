@@ -8,6 +8,13 @@ I am also an **ITI graduate** and **Flutter Instructor**, combining real-world p
 
 ---
 
+## 📄 Resume
+
+You can view my full resume here:
+👉 https://drive.google.com/file/d/1xyVSUp9gpdgHm5pDr93UOK-hUHErWpDc/view?usp=drive_link
+
+---
+
 ## 🚀 What I Do
 
 * Build production-ready Flutter applications for Android and iOS

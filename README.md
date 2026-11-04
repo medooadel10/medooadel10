@@ -1,107 +1,98 @@
 # Hi, I'm Mohammed Adel 👋
 
-**Mobile Software Engineer | Flutter Developer**
+### Flutter Developer | Mobile Software Engineer
 
-I specialize in building scalable, high-performance cross-platform mobile applications using **Flutter** and **Dart**. I have hands-on experience building and publishing **10+ Android and iOS applications** to **Google Play** and the **App Store**, with production features across LMS, ERP, delivery, maintenance, study-abroad, and self-development domains.
+Mid-level Flutter Developer with **4+ years** of mobile development experience and **10+ Android and iOS apps** published on Google Play and the App Store, across LMS, ERP/HR, delivery, gaming and AI agent governance.
 
-I am also an **ITI graduate** and **Flutter Instructor**, combining real-world production experience with mentoring and training developers through practical mobile projects.
+- 🚀 Improved app performance by **60%** at Weevo by cutting startup time and UI jank, and resolved all reported production crashes
+- 🔄 Migrated 2 production apps from **Flutter 2.10 to Flutter 3.x**
+- 🎮 Shipped Arabic party games with **100K+** and **10K+** downloads, with ads and in-app purchases
+- 👨‍🏫 Former **ITI Flutter Instructor**, mentoring developers through real-world projects
 
----
+📍 Cairo, Egypt · 💼 Open to Flutter / Mobile Engineer roles (on-site, hybrid or remote)
 
-## 📄 Resume
-
-📥 [**Download My Resume**](https://drive.google.com/file/d/1xyVSUp9gpdgHm5pDr93UOK-hUHErWpDc/view?usp=drive_link)
-Access my full professional resume with detailed experience, projects, and technical expertise.
-
----
-
-## 🚀 What I Do
-
-* Build production-ready Flutter applications for Android and iOS
-* Design scalable mobile architecture using Clean Architecture, MVVM, and SOLID principles
-* Integrate REST APIs, Firebase, authentication, push notifications, payments, and local storage
-* Implement real-world features such as QR/location attendance, real-time sync, certificates, approvals, and multi-role workflows
-* Manage CI/CD workflows and app releases to Google Play and the App Store
-* Mentor Flutter students through practical projects, code reviews, and debugging sessions
+📄 **[Download my CV](https://drive.google.com/file/d/1PwB7cOatBoYVCM1bkUeCfozPYHco6lpW/view?usp=sharing)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile Development:** Flutter, Dart, Android Native
-**State Management:** BLoC/Cubit, GetX, Provider
-**Architecture:** Clean Architecture, MVVM, SOLID Principles, Design Patterns
-**APIs & Backend:** REST APIs, Dio, HTTP, Retrofit, Firebase, OAuth
-**Local Storage:** Hive, SQLite / sqflite, Shared Preferences
-**Integrations:** FCM Notifications, Google Maps, Payment Integration
-**Tools & Workflow:** Git, CI/CD, Flutter Flavors, JSON Serialization, Freezed, GetIt
-**Publishing:** Google Play, App Store
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+| Area | Tools |
+|---|---|
+| **Languages & Frameworks** | Dart, Flutter, Android Native |
+| **State Management** | BLoC, Cubit, Provider, GetX, Riverpod |
+| **Architecture** | Clean Architecture, MVVM, SOLID, Design Patterns, Dependency Injection (GetIt), Modular Architecture |
+| **Networking** | REST APIs, Dio, Retrofit, OAuth, Freezed, json_serializable |
+| **Firebase** | Firestore, Cloud Messaging (FCM), Remote Config, Analytics |
+| **Storage** | SQLite, Hive, Shared Preferences, Offline-First |
+| **Monetization & Payments** | In-App Purchases, Unity LevelPlay Ads, Payment Gateways |
+| **Quality & Delivery** | Unit & Widget Testing, Performance Optimization, CI/CD, Flutter Flavors, Google Play Console, App Store Connect |
+| **Localization** | Arabic & English, RTL layouts |
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Flutter Developer (Part-time) | Geeks Tech · Remote (Amman, Jordan) | Mar 2026 – Present |
+| Mobile Software Engineer (Flutter) | Solvytix · Cairo, Egypt | Jan 2025 – Present |
+| Mobile Software Engineer (Flutter, Part-time) | Weevo · Giza, Egypt | Jul 2024 – Present |
+| Flutter Instructor | Information Technology Institute (ITI) | Jul 2025 – Nov 2025 |
+| Android & Flutter Developer | Mahatech Academy · Cairo, Egypt | Jan 2021 – Jan 2023 |
 
 ---
 
 ## 📱 Featured Projects
 
-### CEB LMS — Flutter Mobile Application
+> Most of these are client and company apps, so their source code is private. All are live on Google Play and the App Store.
 
-Official learning platform for trainees and professionals, featuring courses, mobile learning content, training sessions, QR/location attendance, progress tracking, feedback, certificates, and notifications.
+### 🍽️ ElKanteen — School Canteen Management Platform
+3 Flutter apps (Parent, Student, Cashier POS) that I led end to end. The POS handles QR and student-code lookup, wallet payments, pre-orders and item-level refunds; the parent and student apps cover menus, pre-orders, child profiles, wallets and push notifications.
+`Flutter` `BLoC/Cubit` `REST APIs` `FCM`
 
-### Cognitech LMS — Flutter Mobile Application
+### 🛡️ Gatelion — AI Agent Approval App
+Human-in-the-loop app where approvers accept or reject AI agent actions (payments, record changes) from push notifications. Biometric approvals signed on the device, QR device linking, screenshot blocking and a full audit trail.
+`Flutter` `Biometric Auth` `FCM` `Security`
 
-Learning management app for course enrollment, lesson streaming, live sessions, quizzes, progress tracking, certificates, and instructor engagement.
+### 🚚 Weevo Merchant & Weevo Captain — Delivery Platform
+Egypt's first real-time delivery platform for prepaid orders and insured shipments. Built real-time order sync, authentication and payments; improved performance by 60% and migrated both apps from Flutter 2.10 to 3.x.
+`Flutter` `Firebase` `Real-time Sync` `Payments`
 
-### Cognitech Workspace — Flutter Mobile Application
+### 🎓 CEB & Cognitech — LMS and HR/ERP Platforms
+4 apps covering courses, video lessons, live sessions, quizzes and certificates, plus QR/location attendance, leave, payroll, approvals, role-based access and secure multi-tenant login in Arabic and English.
+`Flutter` `BLoC` `REST APIs` `Multi-tenant`
 
-Enterprise ERP app for employees, managers, and HR teams, featuring attendance, leave, payroll, approvals, notifications, secure multi-tenant access, and Arabic/English support.
+### 🎮 Arabic Party Games — Barra Al-Salfeh, Guess It, Sawaleef, Clash Kalimat
+Social deduction, charades, multi-game and word-puzzle games with offline-first play, RTL UI, ads and in-app purchases. Barra Al-Salfeh passed **100K+** downloads and Guess It **10K+**. Built on a shared Flutter game kit used across the studio's apps.
+`Flutter` `IAP` `Unity LevelPlay` `Offline-First`
 
-### Weevo Merchant — Flutter Mobile Application
-
-Delivery platform for merchants to create prepaid orders, track shipments, manage deliveries, and communicate with captains.
-
-### Weevo Captain — Flutter Mobile Application
-
-Delivery app connecting captains with merchants for local and inter-governorate shipments, real-time order updates, and delivery tracking.
-
-### LineSteel — Flutter Mobile Application
-
-Maintenance service app for requests, tracking, payments, support chat, and customer communication.
-
-### Boost Abroad — Flutter Mobile Application
-
-Study-abroad app for program discovery, application tracking, and student onboarding.
-
-### InnerQ — Flutter Mobile Application
-
-Self-discovery app with daily questions, personal insights, notifications, and progress tracking.
+### 🔧 More Apps
+- **LineSteel & LineSteel Technician** — maintenance requests, tracking, payments, support chat and technician job management
+- **Boost Abroad** — study-abroad program discovery and application tracking
+- **InnerQ** — self-discovery app with daily questions, personal insights and progress tracking
 
 ---
 
-## 💼 Experience Highlights
+## 🎓 Education
 
-* Built and maintained production Flutter apps across LMS, ERP, delivery, maintenance, study-abroad, and self-development domains
-* Developed **3 SaaS mobile apps** for Captain, Merchant, and Customer users across Android and iOS
-* Published and maintained **10+ mobile applications** on Google Play and the App Store
-* Implemented production features including QR/location attendance, payments, real-time synchronization, push notifications, certificates, and approval workflows
-* Trained and mentored Flutter students on Dart, APIs, Firebase, state management, clean architecture, and production-ready mobile development
+- **B.Sc. in Statistics and Computer Science** — Helwan University (2023)
+- **Intensive Training Diploma, Frontend & Cross-Platform Mobile Development** — ITI, MCIT (2023 – 2024)
 
 ---
 
-## 🎓 Education & Training
+## 📫 Let's Connect
 
-* **Bachelor of Science in Statistics and Computer Science** — Helwan University
-* **Intensive Training Diploma** — Information Technology Institute (ITI), Frontend and Cross-Platform Mobile Development
-* **Training Diploma** — Ministry of Communications and Information Technology (MCIT)
+I'm happy to talk about Flutter, mobile architecture and new opportunities.
 
----
-
-## 📫 Contact Me
-
-* 📧 **Email:** [m.adeldev10@gmail.com](mailto:m.adeldev10@gmail.com)
-* 📍 **Location:** Cairo, Egypt
-* 💻 **GitHub:** mohammedadel10
-* 🔗 **LinkedIn:** medooadel10
-
----
-
-## 🤝 Let's Connect
-
-I am always open to discussing Flutter development, mobile architecture, production app delivery, and opportunities to build impactful mobile products.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedadel10)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.adeldev10@gmail.com)
+[![CV](https://img.shields.io/badge/Download_CV-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PwB7cOatBoYVCM1bkUeCfozPYHco6lpW/view?usp=sharing)

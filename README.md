@@ -2,7 +2,7 @@
 
 ### Flutter Developer | Mobile Software Engineer
 
-Mid-level Flutter Developer with **4+ years** of mobile development experience and **10+ Android and iOS apps** published on Google Play and the App Store, across LMS, ERP/HR, delivery, gaming and AI agent governance.
+Mid-level Flutter Developer with **3+ years** of mobile development experience and **10+ Android and iOS apps** published on Google Play and the App Store, across LMS, ERP/HR, delivery, gaming and AI agent governance.
 
 - 🚀 Improved app performance by **60%** at Weevo by cutting startup time and UI jank, and resolved all reported production crashes
 - 🔄 Migrated 2 production apps from **Flutter 2.10 to Flutter 3.x**
@@ -11,7 +11,7 @@ Mid-level Flutter Developer with **4+ years** of mobile development experience a
 
 📍 Cairo, Egypt · 💼 Open to Flutter / Mobile Engineer roles (on-site, hybrid or remote)
 
-📄 **[Download my CV](https://drive.google.com/file/d/1PwB7cOatBoYVCM1bkUeCfozPYHco6lpW/view?usp=sharing)**
+📄 **[Download my CV](https://drive.google.com/file/d/1ofusFgoBcQgHArs2WlCtgXEt6Wek2AAW/view?usp=drive_link)**
 
 ---
 
